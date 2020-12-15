@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Codersrank Stats
-![codersrank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edgant)
+![codersrank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edgant&show-avatar=false)
 ![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=edgant)
 ![codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=edgant&labels=true)
