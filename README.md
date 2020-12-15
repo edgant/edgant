@@ -1,4 +1,6 @@
-### Hi there 👋
+<!-- 
+### Hi there 👋  
+-->
 
 <!--
 **edgant/edgant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Codersrank Stats
+![codersrank summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=edgant)
+![codersrank skills](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=edgant)
+![codersrank activity](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=edgant&labels=true)
